@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tiana 👋🏾
+
+Recent Data Science graduate passionate about analytics, business, and solving real-world problems through data.
+
+## Currently Working On
+
+* Strengthening skills in analytics, visualization, and predictive modeling
+* Exploring opportunities in data science, research, and graduate study
+
+## Tools & Technologies
+
+**Python** • **R** • **Tableau** • **Excel** • **SQL** • **Research**
+
+## Experience
+
+* Nevada State Undergraduate Research
+* Georgia Tech SURE Research Intern
+* FAA Office & Administrative Student Trainee
+
+## Reach Me
+
+📫 tiana.cofer@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/tiana-cofer-a86733237/
+
 
 <!--
 **tianacofer-cmyk/tianacofer-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
