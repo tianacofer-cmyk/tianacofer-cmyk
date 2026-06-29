@@ -1,6 +1,6 @@
 # Hi, I'm Tiana 👋🏾
 
-Recent Data Science graduate passionate about analytics, business, and solving real-world problems through data.
+Young professional passionate about analytics, business, and solving real-world problems through data.
 
 ## Currently Working On
 
