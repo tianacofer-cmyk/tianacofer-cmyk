@@ -1,6 +1,8 @@
 # Hi, I'm Tiana 
 
-Young professional passionate about analytics, business, and solving real-world problems through data.
+I'm Tiana, a young professional skilled in analytics, business, and solving real-world problems through data.
+
+My main tools are Python, R, and Excel.
 
 ## Currently Working On
 
