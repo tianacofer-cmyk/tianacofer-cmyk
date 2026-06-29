@@ -1,4 +1,4 @@
-# Hi, I'm Tiana 👋🏾
+# Hi, I'm Tiana 
 
 Young professional passionate about analytics, business, and solving real-world problems through data.
 
